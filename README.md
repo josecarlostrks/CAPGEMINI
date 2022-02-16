@@ -21,13 +21,13 @@ em cada uma delas adicionei um método main para que sejam executadas.
 
 Executando os testes unitários é possível verificar que os métodas fazem o que devem fazer.
 Se as classes QuestaoUm, QuestaoDois ou QuestaoTres forem executadas, a solução apresentada pode estar além do que foi pedido.
-Por exemplo:
-    Executando a classe QuestaoUm, o usuário necessita digitar o número inteiro que será usado na impressão dos asteriscos.
- 
-    Executando a classe QuestaoDois, se a senha não cumprir com os requisitos é exibido não somente o número de caracteres necessáios,
-    mas também os tipos de caracteres que faltam para a senha ser considerada forte, cada caracter digitado é contatenado aos que já estavam.
 
-    Executando a classe QuestaoTres, são impressos os pares de substrings e o número de pares de substrings que são anagramas.
+Executando a classe QuestaoUm, o usuário necessita digitar o número inteiro que será usado na impressão dos asteriscos.
+ 
+Executando a classe QuestaoDois, se a senha não cumprir com os requisitos é exibido não somente o número de caracteres necessáios,
+mas também os tipos de caracteres que faltam para a senha ser considerada forte, cada caracter digitado é contatenado aos que já estavam.
+
+Executando a classe QuestaoTres, são impressos os pares de substrings e o número de pares de substrings que são anagramas.
 
 
 ##Observações
