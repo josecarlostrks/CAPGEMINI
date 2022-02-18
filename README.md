@@ -51,4 +51,5 @@ No exemplo 2, a entrada "ifailuhkqq" estava com a saída 3, e na explicação ap
 Como a questão pediu claramente o número de pares de substrings que são anagramas, 
 considerei que foi apenas algum erro de digitação quando foi colocado a saída 3 ao invés de 2 no exemplo 1.
 
-
+### PS:
+Esqueci de incluir o arquivo .gitignore
